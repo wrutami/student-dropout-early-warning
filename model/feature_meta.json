@@ -1,0 +1,207 @@
+{
+ "features": [
+  "Marital_status",
+  "Application_mode",
+  "Application_order",
+  "Course",
+  "Daytime_evening_attendance",
+  "Previous_qualification",
+  "Previous_qualification_grade",
+  "Nacionality",
+  "Mothers_qualification",
+  "Fathers_qualification",
+  "Mothers_occupation",
+  "Fathers_occupation",
+  "Admission_grade",
+  "Displaced",
+  "Educational_special_needs",
+  "Debtor",
+  "Tuition_fees_up_to_date",
+  "Gender",
+  "Scholarship_holder",
+  "Age_at_enrollment",
+  "International",
+  "Curricular_units_1st_sem_credited",
+  "Curricular_units_1st_sem_enrolled",
+  "Curricular_units_1st_sem_evaluations",
+  "Curricular_units_1st_sem_approved",
+  "Curricular_units_1st_sem_grade",
+  "Curricular_units_1st_sem_without_evaluations",
+  "Unemployment_rate",
+  "Inflation_rate",
+  "GDP"
+ ],
+ "course": {
+  "33": "Biofuel Production Technologies",
+  "171": "Animation and Multimedia Design",
+  "8014": "Social Service (evening)",
+  "9003": "Agronomy",
+  "9070": "Communication Design",
+  "9085": "Veterinary Nursing",
+  "9119": "Informatics Engineering",
+  "9130": "Equinculture",
+  "9147": "Management",
+  "9238": "Social Service",
+  "9254": "Tourism",
+  "9500": "Nursing",
+  "9556": "Oral Hygiene",
+  "9670": "Advertising and Marketing Management",
+  "9773": "Journalism and Communication",
+  "9853": "Basic Education",
+  "9991": "Management (evening)"
+ },
+ "defaults": {
+  "Marital_status": 1.0,
+  "Application_mode": 1.0,
+  "Application_order": 1.0,
+  "Course": 9500.0,
+  "Daytime_evening_attendance": 1.0,
+  "Previous_qualification": 1.0,
+  "Previous_qualification_grade": 133.1,
+  "Nacionality": 1.0,
+  "Mothers_qualification": 1.0,
+  "Fathers_qualification": 37.0,
+  "Mothers_occupation": 9.0,
+  "Fathers_occupation": 9.0,
+  "Admission_grade": 126.5,
+  "Displaced": 1.0,
+  "Educational_special_needs": 0.0,
+  "Debtor": 0.0,
+  "Tuition_fees_up_to_date": 1.0,
+  "Gender": 0.0,
+  "Scholarship_holder": 0.0,
+  "Age_at_enrollment": 20.0,
+  "International": 0.0,
+  "Curricular_units_1st_sem_credited": 0.0,
+  "Curricular_units_1st_sem_enrolled": 6.0,
+  "Curricular_units_1st_sem_evaluations": 8.0,
+  "Curricular_units_1st_sem_approved": 5.0,
+  "Curricular_units_1st_sem_grade": 12.34142857142857,
+  "Curricular_units_1st_sem_without_evaluations": 0.0,
+  "Unemployment_rate": 11.1,
+  "Inflation_rate": 1.4,
+  "GDP": 0.32
+ },
+ "ranges": {
+  "Marital_status": [
+   1.0,
+   6.0
+  ],
+  "Application_mode": [
+   1.0,
+   57.0
+  ],
+  "Application_order": [
+   0.0,
+   6.0
+  ],
+  "Course": [
+   33.0,
+   9991.0
+  ],
+  "Daytime_evening_attendance": [
+   0.0,
+   1.0
+  ],
+  "Previous_qualification": [
+   1.0,
+   43.0
+  ],
+  "Previous_qualification_grade": [
+   95.0,
+   190.0
+  ],
+  "Nacionality": [
+   1.0,
+   109.0
+  ],
+  "Mothers_qualification": [
+   1.0,
+   44.0
+  ],
+  "Fathers_qualification": [
+   1.0,
+   44.0
+  ],
+  "Mothers_occupation": [
+   0.0,
+   194.0
+  ],
+  "Fathers_occupation": [
+   0.0,
+   195.0
+  ],
+  "Admission_grade": [
+   95.0,
+   190.0
+  ],
+  "Displaced": [
+   0.0,
+   1.0
+  ],
+  "Educational_special_needs": [
+   0.0,
+   1.0
+  ],
+  "Debtor": [
+   0.0,
+   1.0
+  ],
+  "Tuition_fees_up_to_date": [
+   0.0,
+   1.0
+  ],
+  "Gender": [
+   0.0,
+   1.0
+  ],
+  "Scholarship_holder": [
+   0.0,
+   1.0
+  ],
+  "Age_at_enrollment": [
+   17.0,
+   70.0
+  ],
+  "International": [
+   0.0,
+   1.0
+  ],
+  "Curricular_units_1st_sem_credited": [
+   0.0,
+   20.0
+  ],
+  "Curricular_units_1st_sem_enrolled": [
+   0.0,
+   26.0
+  ],
+  "Curricular_units_1st_sem_evaluations": [
+   0.0,
+   45.0
+  ],
+  "Curricular_units_1st_sem_approved": [
+   0.0,
+   26.0
+  ],
+  "Curricular_units_1st_sem_grade": [
+   0.0,
+   18.875
+  ],
+  "Curricular_units_1st_sem_without_evaluations": [
+   0.0,
+   12.0
+  ],
+  "Unemployment_rate": [
+   7.6,
+   16.2
+  ],
+  "Inflation_rate": [
+   -0.8,
+   3.7
+  ],
+  "GDP": [
+   -4.06,
+   3.51
+  ]
+ }
+}
